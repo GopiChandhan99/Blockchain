@@ -1,10 +1,5 @@
 print("Hello World")
-<<<<<<< HEAD
-a = b+c
-print(a)
-pottiiiii
 print("Hii")
-=======
 a = b+c+d
 print(a)
->>>>>>> 965987ef04a0a940bdfac1b84ae5848168a06c21
+
